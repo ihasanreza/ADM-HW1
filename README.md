@@ -12,13 +12,13 @@ This file contains the code related to the homework 1 exercises I completed. The
 
 **#Name_Exercise_1**
 
-**script_exercise_1**
+script_exercise_1
 
 **...**
 
 **#Name_Last_Exercise**
 
-**script_last_exercise**
+script_last_exercise
 
 ### submissions.pdf
 ------
