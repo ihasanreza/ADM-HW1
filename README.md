@@ -1,6 +1,6 @@
 # ADM-HW1
 
-### stamps
+### stamps/
 ------
 
 This folder contains screenshots of the console. These screenshots assess the exercises I completed.
